@@ -2,7 +2,7 @@
 
 I'm a backend senior software engineer. I've been coding since 2013 but solving puzzle for much longer. 
 
-Currently I'm looking for my next engineering role.
+Currently I'm looking for my next engineering role. See my current resume [here](./Resume%20August%202025.pdf)
 
 Reach me at [casseia93@gmail.com](casseia93@gmail.com)
 
