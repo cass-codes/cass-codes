@@ -1,4 +1,10 @@
-## Hi there 👋
+## Cass Barnard 
+
+I'm a backend senior software engineer. I've been coding since 2013 but solving puzzle for much longer. 
+
+Currently I'm looking for my next engineering role.
+
+Reach me at [casseia93@gmail.com](casseia93@gmail.com)
 
 <!--
 **cass-codes/cass-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
